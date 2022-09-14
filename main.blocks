@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="sM9AEdUms=VvFAffNSTl" x="20" y="20"></block><block type="device_forever" id="@n)j0PHJgONl:,SH*_$}" x="225" y="20"></block><block type="device_button_event" id="I{7!b]F+]*|#2,v!|D#D" x="420" y="43"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="$?fcKjf3UySzA5iD.@~O"><value name="TIMES"><shadow type="math_whole_number" id="nVm]x6_/$iUSAFJ95[^M"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="xbgI7kfQ87{S*6q+jQ~o"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="OEyCL!_rYT]Us33G_kp2"><value name="pause"><shadow type="timePicker" id="1ys.$@F(TJBR7{iMZlIM"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="+7cJF)1l;0~n=;t]q(BF"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="*|[mx1$%%/L}N)}*QO]`"><value name="pause"><shadow type="timePicker" id="F9xf1EUI.myE)N=q(c`-"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="f!M;rm@V?;!J9NC(7DOi"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="0,O{iA;u4MV.lf~(|_s]"><value name="pause"><shadow type="timePicker" id="hU_y+_V6U9sfd(M,uJa|"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="$@G7!,]~FN%1QX,-RdJ-"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="pjR.gSNlwbo-Z[c,KL(("><value name="pause"><shadow type="timePicker" id="DUPVQZ_q8(z#4hk,qxJ9"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
